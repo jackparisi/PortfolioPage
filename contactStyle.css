@@ -1,0 +1,17 @@
+h1 {
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+        "Lucida Sans", Arial, sans-serif;
+    color: turquoise;
+    font-weight: bold;
+    text-align: center;
+}
+body {
+    background-color: thistle;
+    background-image: url("hw2background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.container {
+    background-color: white;
+}
